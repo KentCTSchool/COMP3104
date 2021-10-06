@@ -1,0 +1,20 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Videospirit/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Videospirit/COMP3104/issues"
+  },
+  "homepage": "https://github.com/Videospirit/COMP3104#readme"
+}
