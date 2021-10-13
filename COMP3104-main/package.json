@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Videospirit/COMP3104.git"
+    "url": "git+https://github.com/KentCTSchool/COMP3104.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Videospirit/COMP3104/issues"
+    "url": "https://github.com/KentCTSchool/COMP3104/issues"
   },
-  "homepage": "https://github.com/Videospirit/COMP3104#readme"
+  "homepage": "https://github.com/KentCTSchool/COMP3104#readme"
 }
