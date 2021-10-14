@@ -4,6 +4,7 @@
   "description": "[![Build Status](https://app.travis-ci.com/KentCTSchool/COMP3104.svg?branch=main)](https://app.travis-ci.com/KentCTSchool/COMP3104)",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Warning: No tests created yet.\""
   },
   "repository": {
